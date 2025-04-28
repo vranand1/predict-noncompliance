@@ -1,0 +1,29 @@
+# Virtual Environment
+bin/
+lib/
+include/
+pyvenv.cfg
+.Python
+pip-selfcheck.json
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Local environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
